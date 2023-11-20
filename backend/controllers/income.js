@@ -48,3 +48,10 @@ exports.deleteIncome = async (req, res) =>{
             res.status(500).json({message: 'Server Error'})
         })
 }
+/**
+ * 
+ *   git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/ABDULAAQILKHAN/IncomeExpense.git
+  git push -u origin main
+ */
